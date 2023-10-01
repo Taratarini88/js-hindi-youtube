@@ -1,4 +1,4 @@
-let name = "hitesh"
+let name = "tara"
 let age = 3
 let isLoggedIn = false
 let state;
