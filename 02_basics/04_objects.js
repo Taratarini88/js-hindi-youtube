@@ -55,3 +55,28 @@ users[1].email
 // console.log(Object.values(tinderUser));
 // console.log(Object.entries(tinderUser));
 console.log(tinderUser.hasOwnProperty('isLogged'));
+
+
+const course = {
+    coursename: "js in odia",
+    price: "999",
+    courseInstructor: "Tara"
+}
+
+// const {courseInstructor} = couse 
+// console.log(courseInstructor)
+
+// const {courseInstructor: instructor} = course 
+// console.log(instructor)
+
+// {
+//     "name": "Tara",
+//     "coursename": "js in odia",
+//     "price": "free"
+// }
+
+[
+    {},
+    {},
+    {}
+]
